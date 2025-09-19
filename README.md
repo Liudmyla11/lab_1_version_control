@@ -30,7 +30,7 @@
 1. **Клонування з GitHub**  
    Використайте команду для копіювання репозиторію:
    ```bash
-   https://github.com/Liudmyla11/lab_1_version_control.git
+   git clone https://github.com/Liudmyla11/lab_1_version_control.git
    ```
 2. **Завантаження файлів вручну**  
    Натисніть кнопку Code → Download ZIP на сторінці репозиторію і розпакуйте архів у будь-яку зручну папку на вашому комп’ютері.
